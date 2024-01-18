@@ -70,7 +70,7 @@ const Header: React.FC = () => {
               width: { xs: "40px", sm: '60px' },
             }}
           >
-            <img src="/favicon.png" style={{ width: "100%", height: "100%" }} />
+            <img src="favicon.png" style={{ width: "100%", height: "100%" }} />
           </Box>
           <Typography variant="h6" textAlign='center' sx={{ fontSize: {xs: '14px', sm: '20px'}}}>
             PokeLib - your pocket encyclopedia!
